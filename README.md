@@ -23,8 +23,10 @@ Can be selcted by typing `9` on app startup, This is not a gamemode but instead 
 There is not much more to say I know I could have made this better but I still think it is cool how it works. I do plan on making another version of this but I do not know when that will be out. I will put it on this github as a Version2. 
 
 # Versions
-The most up to date version is Version 1.0
+The most up to date version is Version 1.1
 
+- Version 1.1:
+This version came out 12/02/2023
 - Version 1.0:
 This version came out 12/01/2023
 
