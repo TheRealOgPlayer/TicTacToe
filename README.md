@@ -14,7 +14,7 @@ Can be selcted by typing `M` or `m` on app startup, This mode has the logic of h
 Can be selcted by typing `H` or `h` on app startup, This mode has the bot go first and is very hard to beat but possible.
 
 - Impossable
-Can be selcted by typing `I` or `i` on app startup, This mode has the bot go first and is very impossable to beat as far as I know.
+Can be selcted by typing `I` or `i` on app startup, This mode has the bot go first and is impossable to beat as far as I know.
 
 - Debugging Mode:
 Can be selcted by typing `D` or `d` on app startup, This is not a gamemode but instead a setting that makes it so the console will not clear and you will get a lot of debug info. Could be useful if you want to add on or make your own TicTacToe and need to understand how my code works better.
