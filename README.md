@@ -8,71 +8,29 @@ It is TicTacToe so enjoy
 Can be selcted by typing `E` or `e` on app startup, This mode lets the user go first and makes all of the bots movments random. 
 
 - Medium:
-Can be selcted by typing `M` or `m` on app startup, This mode has the logic of hard mode but does not block the user from 
+Can be selcted by typing `M` or `m` on app startup, This mode has the logic of hard mode but does not block the user from the Hard Movement found in the Movement.txt file
 
 - Hard:
-Can be selcted by typing `H` or `h` on app startup, 
+Can be selcted by typing `H` or `h` on app startup, This mode has the bot go first and and it checks for every possible win, unless I missed one.
 
 - Debugging Mode:
-Can be selcted by typing `D` or `d` on app startup, 
+Can be selcted by typing `D` or `d` on app startup, This is not a gamemode but instead a setting that makes it so the console will not clear and you will get a lot of debug info. Could be useful if you want to add on or make your own TicTacToe and need to understand how my code woeks better.
 
 - Exit:
-Can be selcted by typing `9` on app startup, 
+Can be selcted by typing `9` on app startup, This is not a gamemode but instead a setting that simply exits the program. 
 
+# Other
+There is not much more to say I know I could have made this better but I still think it is cool how it works. I do plan on making another version of this but I do not know when that will be out. I will put it on this github as a Version2. 
 
-#Movement
+# Versions
+The most up to date version is Version 1.0
 
-# Simple Wins
+- Version 1.0:
+This version came out 12/01/2023
 
-O|X|0          O|#|#
-#|#|#          X|#|#
-#|#|#          O|#|#
+# Checksum
+In order to check the Checksum open Powershell and CD into the file path and run the `Get-FileHash [FILE NAME]` command.
 
-#|#|O          #|#|#
-#|#|X          #|#|#
-#|#|O          O|X|O
+Check The Checksum to make sure you got the right file please.
 
-#|#|O          O|#|#
-#|X|#          #|X|#
-O|#|#          #|#|O
-
-#|O|#          #|#|#
-#|X|#          O|X|O
-#|O|#          #|#|#
-
-
-# Hard wins
-
-O|#|#          #|O|#
-O|#|#          #|O|#
-X|#|#          #|X|#
-
-#|#|O          O|#|#
-#|#|O          #|O|#
-#|#|X          #|#|X
-
-#|#|O          #|#|X
-#|O|#          #|O|#
-X|#|#          O|#|#
-
-X|#|#          #|X|#
-O|#|#          #|O|#
-O|#|#          #|O|#
-
-
-#|#|X          O|O|X
-#|#|O          #|#|#
-#|#|O          #|#|#
-
-#|#|#          #|#|#
-O|O|X          #|#|#
-#|#|#          O|O|X
-
-
-#|#|#          #|#|#
-#|#|#          #|#|#
-X|O|O          X|O|O
-
-#|#|#          X|O|O
-X|O|O          #|#|#
-#|#|#          #|#|#
+Checksum: `4393FB5BAA1539228ACC118269E1530CD6D5D6E0BD33682F0D9504DEAC9610B6`
