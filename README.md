@@ -11,7 +11,7 @@ Can be selcted by typing `E` or `e` on app startup, This mode lets the user go f
 Can be selcted by typing `M` or `m` on app startup, This mode has the logic of hard mode but does not block the user from the Hard Movement found in the Movement.txt file
 
 - Hard:
-Can be selcted by typing `H` or `h` on app startup, This mode has the bot go first and is impossible to beat. 
+Can be selcted by typing `H` or `h` on app startup, This mode has the bot go first and is very hard to beat but possible. 
 
 - Debugging Mode:
 Can be selcted by typing `D` or `d` on app startup, This is not a gamemode but instead a setting that makes it so the console will not clear and you will get a lot of debug info. Could be useful if you want to add on or make your own TicTacToe and need to understand how my code works better.
