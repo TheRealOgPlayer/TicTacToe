@@ -31,6 +31,7 @@ The most up to date version is Version 1.3
 -Version 1.3:
 This version came out 12/11/2023
 Made impossible mode even more impossible. I found out how to win in impossible mode which you no longer can do or at least I don't think you can.
+The new checks impossible mode makes can be found in the Version1.3/NewChecks.txt file.
 Checksum: `7155D3ECCD25E7B5CFC159026189EE17F2EBB827DEC4A22EB141417808186C44` Algorithm: `SHA256`
 
 - Version 1.2:
