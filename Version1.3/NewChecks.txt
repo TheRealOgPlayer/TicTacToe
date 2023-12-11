@@ -1,0 +1,29 @@
+// This is a list of the moves added to the bot in Impossible
+// O's are the locations that need to have both O's or X's in them for the bot to respond
+// X's are the locations that the bot will go if the above statement is true
+// The numbers(###) under the boards are the bot checks. The first two numbers are the checks(O's) and the last number is the response(X's)
+
+
+\|1|2|3
+A|#|#|#
+B|#|X|O
+C|#|O|#
+//574
+
+\|1|2|3
+A|#|#|#
+B|O|X|#
+C|#|O|#
+//374
+
+\|1|2|3
+A|#|O|#
+B|#|X|O
+C|#|#|#
+//154
+
+\|1|2|3
+A|#|O|#
+B|O|X|#
+C|#|#|#
+//134
