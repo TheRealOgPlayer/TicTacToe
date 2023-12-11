@@ -28,7 +28,7 @@ There is not much more to say I know I could have made this better but I still t
 # Versions
 The most up to date version is Version 1.3
 
--Version 1.3:
+- Version 1.3:
 This version came out 12/11/2023
 Made impossible mode even more impossible. I found out how to win in impossible mode which you no longer can do or at least I don't think you can.
 The new checks impossible mode makes can be found in the `Version1.3/NewChecks.txt` file.
