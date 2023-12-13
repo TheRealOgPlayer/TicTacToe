@@ -35,19 +35,19 @@ There is not much more to say I know I could have made this better but I still t
 > Checksum: `7155D3ECCD25E7B5CFC159026189EE17F2EBB827DEC4A22EB141417808186C44` Algorithm: `SHA256`
 
 ## Version 1.2:
-> This version came out 12/04/2023
-> Fixed a bug that caused multiple instances of the application to open. This happend when you pressed and held the enter key once the application first starts. This causes the program to crash and for the EXE to be launched again and again because you are holding enter.
-> Debugging mode now tells the user their error codes if a `try statement` is called.
-> Checksum: `73AEE316F10CC7A2877D9BB39859E17F81A7BF8E93660431575A09317162536B` Algorithm: `SHA256`
+This version came out 12/04/2023
+Fixed a bug that caused multiple instances of the application to open. This happend when you pressed and held the enter key once the application first starts. This causes the program to crash and for the EXE to be launched again and again because you are holding enter.
+Debugging mode now tells the user their error codes if a `try statement` is called.
+Checksum: `73AEE316F10CC7A2877D9BB39859E17F81A7BF8E93660431575A09317162536B` Algorithm: `SHA256`
 
 ## Version 1.1:
->This version came out 12/02/2023
-> Added Impossible mode which is impossible as far as I know
-> Checksum: `ADD1862722C62698F5B5CE464D70559B5A9ED58E382B4F52C5AC7E0617449236`Algorithm: `SHA256`
+This version came out 12/02/2023
+Added Impossible mode which is impossible as far as I know
+Checksum: `ADD1862722C62698F5B5CE464D70559B5A9ED58E382B4F52C5AC7E0617449236`Algorithm: `SHA256`
 
 ## Version 1.0:
-> This version came out 12/01/2023
-> Checksum: `4393FB5BAA1539228ACC118269E1530CD6D5D6E0BD33682F0D9504DEAC9610B6` Algorithm: `SHA256`
+This version came out 12/01/2023
+Checksum: `4393FB5BAA1539228ACC118269E1530CD6D5D6E0BD33682F0D9504DEAC9610B6` Algorithm: `SHA256`
 
 # Checksum
 In order to check the Checksum open Powershell and CD into the file path and run the `Get-FileHash [FILE NAME]` command.
